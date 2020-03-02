@@ -1,2 +1,3 @@
-# dw_matrix_one
-Projekt transformacja, czyli Matrix - poznaj reguły gry
+# Projekt transformacja, czyli Matrix - poznaj reguły gry
+
+Tutaj pojawią się rozwiązania pięciu zadań w ramach projektu transformacja
